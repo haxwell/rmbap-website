@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+
+.orange {
+	background-color: orange;
+	color:  white;
+}
+
+.lightblue {
+	background-color: lightblue;
+	color:  blue;
+}
+
+.blue {
+	background-color: blue;
+	color:  white;
+}
+
+.blue a {
+	color: white;
+}
+
+.twitter-logo {
+	height: 90px;
+	width: 90px;
+}
